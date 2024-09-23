@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Lately I am doing **Hardware Efficient algorithm on DiT and LLM**
+- 🔭 Lately I am doing **Hardware Efficient Algorithm on DiT and LLM**
 - 🌱 Currently major in  **Theoretical Mechanics** (4st year undergraduate) in Tsinghua University
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: pianoqwz@gmail.com
