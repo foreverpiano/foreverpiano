@@ -5,6 +5,7 @@
 - 💬 Ask me about my favorite song🎤🎼
 - 📫 How to reach me: pianoqwz@gmail.com
 - ⚡ Fun fact: Love to say anyway in many ways
+- 👯 About me: [homepage](https://foreverpiano.github.io/)
 
 
 <!--
