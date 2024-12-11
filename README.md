@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🔭 Lately I am doing **Hardware Efficient Algorithm on DiT and LLM**
-- 🌱 Currently major in  **Mechanics** (4st year undergraduate) in Tsinghua University
-- 💬 Ask me about my favorite song🎤🎼
-- 📫 How to reach me: pianoqwz@gmail.com
-- 👯 About me: [homepage](https://foreverpiano.github.io/)
+- 🔭 Lately I am doing **Algorithm and System Co-Design on Diffusion and LLM**.
+- 🌱 Currently major in  **Mechanics** (4st year undergraduate) in Tsinghua University.
+- 📫 How to reach me: pianoqwz@gmail.com.
+- 👯 About me: **[My Homepage](https://foreverpiano.github.io/)**.
 
 
 <!--
