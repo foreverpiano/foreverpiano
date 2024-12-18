@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 Lately I am doing **Algorithm and System Co-Design on Diffusion and LLM**.
-- 🌱 Currently major in  **Mechanics** (4st year undergraduate) in Tsinghua University.
+- 🌱 Currently 4th year undergraduate in Tsinghua University.
 - 📫 How to reach me: pianoqwz@gmail.com.
 - 👯 About me: **[My Homepage](https://foreverpiano.github.io/)**.
 
