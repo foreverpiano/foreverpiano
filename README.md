@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 Lately I am doing **Algorithm and System Co-Design on Diffusion and LLM**.
+- 🔭 Lately I am doing **System and Algorithm Co-Design on LLM and Diffuion**.
 - 🌱 Currently 4th year undergraduate in Tsinghua University.
 - 📫 How to reach me: pianoqwz@gmail.com.
 - 👯 About me: **[My Homepage](https://foreverpiano.github.io/)**.
